@@ -2,9 +2,7 @@
 
 This repository contains data and code for reproducing all experimental results of paper:
 
-*Tissue-specific essential genes identification using nodes classification on an integrated network*.
-Mario Manzo, Maurizio Giordano, Lucia Maddalena, Mario Rosario Guarracino, and Ilaria Granata.
-Submitted as a chapter in book: "Data Science: New Issues, Challenges and Applications. Springer Series: Studies in Computational Intelligence"
+Manzo, M., Giordano, M., Maddalena, L., Guarracino, M.R., Granata, I. (2023). Novel Data Science Methodologies for Essential Genes Identification Based on Network Analysis. In: Dzemyda, G., Bernatavičienė, J., Kacprzyk, J. (eds) Data Science in Applications. Studies in Computational Intelligence, vol 1084. Springer, Cham. https://doi.org/10.1007/978-3-031-24453-7_7
 
 For latex citation, please use: [cite.bib](https://github.com/giordamaug/EG-identification---Data-Science-in-App-Springer/blob/470cea0e6470bfd5bca793ff88651a111de7e383/cite.bib)
 
