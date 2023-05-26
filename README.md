@@ -1,4 +1,4 @@
-# EG-identification---Data-Science-in-App-Springer
+# Essential Gene identification in human kidney tissue based on Network Analysis
 
 This repository contains data and code for reproducing all experimental results of paper:
 
