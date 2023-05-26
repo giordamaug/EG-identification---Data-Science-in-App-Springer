@@ -10,3 +10,4 @@ For latex citation, please use: [cite.bib](https://github.com/giordamaug/EG-iden
 
 The code can be run as Jupyter notebooks by clicking on the launching icon (![Google Colab](https://colab.research.google.com/assets/colab-badge.svg) or ![Google Colab](https://mybinder.org/badge_logo.svg)).
 
+A new method following the most of the approaches adopted in this research line is the [HELP framework](https://www.kaggle.com/datasets/cdsgroupicarcnr/help-dataset).
