@@ -6,6 +6,7 @@ This repository contains data and code for reproducing all experimental results 
 Mario Manzo, Maurizio Giordano, Lucia Maddalena, Mario Rosario Guarracino, and Ilaria Granata.
 Submitted as a chapter in book: "Data Science: New Issues, Challenges and Applications. Springer Series: Studies in Computational Intelligence"
 
+For latex citation, please use: ![ctie.bib](https://colab.research.google.com/assets/colab-badge.svg)
 
 The code can be run as Jupyter notebooks by clicking on the launching icon (![Google Colab](https://colab.research.google.com/assets/colab-badge.svg) or ![Google Colab](https://mybinder.org/badge_logo.svg)).
 
